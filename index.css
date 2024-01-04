@@ -1,0 +1,39 @@
+.logo-image{
+    height:100px;
+    width:100px;
+
+}
+#webiste-navbar-product{
+    font-family: 'Roboto';
+    color:#323f4b;
+}
+#webiste-navbar-recent-blogs{
+    font-family: 'Roboto';
+    color:#323f4b;
+}
+#webiste-navbar-delivery-payment{
+    font-family: 'Roboto';
+    color:#323f4b;
+}
+.vr-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height:100vh;
+}
+.vr-heading{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size:50px;
+    color:#ffffff;
+    padding:20px;
+    padding-top:100px;
+}
+.website-button{
+    color:white;
+    background-color: #1a2137;
+    border-radius:5px;
+    border-width:0px;
+    font-size:30px;
+    height:80px;
+    width:200px;
+}
